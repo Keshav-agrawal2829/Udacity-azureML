@@ -56,5 +56,5 @@ With Sklearn pipeline with hyperparameter tunning we got maximum accuary of 91.1
 **What are some areas of improvement for future experiments? Why might these improvements help the model?**
 We can change the sampler such that grid sampling and stopping policy to get batter results.
 
-##Proof of cluster clean up
+## Proof of cluster clean up
 ** If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section. Image of cluster marked for deletion
