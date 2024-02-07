@@ -21,6 +21,8 @@ As it is a classification task, we tried to solve it using hyperparameter tunnin
 
 ## Scikit-learn Pipeline
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
+
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML/blob/main/pipeline.png)
 Sklearn pipeline contained following steps:
 - data is downloaded from "https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv" 
 - data preprocessing - removing emtpy cells, converting categorical features to one hot encoding
